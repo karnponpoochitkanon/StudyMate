@@ -1,7 +1,7 @@
 # StudyMate
 
 A peer study-group matching platform for Kasetsart University SKE/CPE
-students.
+students.   
 
 ## Repository layout
 
