@@ -42,6 +42,6 @@ cp .env.example .env
 npm run dev
 ```
 
-The API listens on [http://localhost:4000](http://localhost:4000). See
-[apps/api/README.md](apps/api/README.md) for details.
+The API listens on [http://localhost:4000](http://localhost:4000). 
+See [apps/api/README.md](apps/api/README.md) for details.
  
